@@ -1,5 +1,5 @@
 # palera1n
-iOS 15.0-15.4.1 work in progress semi-tethered checkm8 "jailbreak"
+iOS 16.0-16.0.2 work in progress semi-tethered checkm8 "jailbreak"
 
 # What does this do?
 It boots the device with AMFI patches. Eventually, I want it to automatically install Pogo by Amy. For now, it has to be installed with TrollStore. You can get an IPA [here](https://nightly.link/elihwyma/Pogo/workflows/build/main/Pogo.zip). There is **no tweak injection yet**.
@@ -14,8 +14,8 @@ It boots the device with AMFI patches. Eventually, I want it to automatically in
 
 **Known working devices:**
 - iPhone X (GSM)
-- iPhone 7
-- iPhone 6s
+- iPhone 7 
+- iPhone 6s (Only for the iOS 15.4 version of Palera1n)
 
 # How to use
 1. Install libimobiledevice
@@ -36,6 +36,7 @@ It boots the device with AMFI patches. Eventually, I want it to automatically in
     - You can get a Pogo IPA from [here](https://nightly.link/elihwyma/Pogo/workflows/build/main/Pogo.zip)
     - You should now see Sileo on your homescreen, enjoy!
     - You'll have to uicache in the Pogo app every reboot
+8. Visit [ios 16 jailbreak](https://taig9.com/jailbreak/ios-16) for more jailbreak related details
 
 # Credits
 - [Nathan](https://github.com/verygenericname) for a lot of the code from SSHRD_Script
@@ -43,3 +44,4 @@ It boots the device with AMFI patches. Eventually, I want it to automatically in
 - [Amy](https://github.com/elihwyma) for the Pogo app
 - [nyuszika7h](https://github.com/nyuszika7h) for the script to get into DFU
 - [the Procursus Team](https://github.com/ProcursusTeam) for the amazing bootstrap
+- [Taig Jailbreak Team](https://taig9.com) for offcial news and blogging
